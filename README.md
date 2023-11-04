@@ -7,3 +7,5 @@ npm run serve
 cd api \
 npm install \
 npm run dev 
+
+should be working
