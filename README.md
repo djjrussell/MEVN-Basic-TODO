@@ -1,2 +1,9 @@
-# mevn-stack-example
-Example Project on how to develop and build MEVN with an example project
+# Vue Code
+cd ui \
+npm install \
+npm run serve 
+
+# API code
+cd api \
+npm install \
+npm run dev 
